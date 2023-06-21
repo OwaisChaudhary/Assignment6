@@ -5,7 +5,7 @@
 #     print("Name:",type(name),"\n","Rollno:",type(rollno))
 
     
-# name1=["Yousu Ansari"]
+# name1=["Yousuf Ansari"]
 # rollno1=[16]
 # print("Name:",name1,"\n","Rollno:",rollno1)
 # print("Name:",type(name1),"\n","Rollno:",type(rollno1))
